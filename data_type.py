@@ -1,4 +1,4 @@
-# The below is a script to help recall the details of the data types in python.
+# The below is a script to help recall the details of the data types(structures) in python.
 # This script was written with Microsoft Copilot.
 # Date: 11/20/2024
 
